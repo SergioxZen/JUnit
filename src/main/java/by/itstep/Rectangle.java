@@ -2,12 +2,17 @@ package by.itstep;
 
 public interface Rectangle {
 
-    public int getA();
+    public int getX1();
 
-    public int getB();
+    public int getX2();
 
-    public int getC();
+    public int getX3();
 
+    public int getY1();
+
+    public int getY2();
+
+    public int getY3();
 
 
 
